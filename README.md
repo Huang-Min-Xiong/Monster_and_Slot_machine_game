@@ -1,2 +1,18 @@
-# Monster_and_Slot_machine_game
- Monster_and_Slot_machine_game
+#### 程式說明
+使用C# WinForm開發，利用多表單來實作，玩家可選擇人物頭像並且下注籌碼選取怪物，來進行怪物競賽+拉霸機的博弈小遊戲。
+
+#### 執行結果
+#### 主畫面
+![image](img/主畫面.PNG)
+#### 頭像
+![image](img/頭像.PNG)
+#### 怪物夥伴
+![image](img/怪物夥伴.PNG)
+#### 競賽
+![image](img/競賽.PNG)
+#### 競賽結果
+![image](img/競賽結果.PNG)
+#### 拉霸機
+![image](img/拉霸機.PNG)
+
+#### 圖片素材皆為網路上所下載使用，此為純學術研究，非營利之目的，若有違反著作權，請Email私密告之，謝謝!
